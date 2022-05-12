@@ -11,4 +11,6 @@ OU
 
 Tout simplement après avoir télécharger mon dossier **Export_Groups_From_Photoshop** depuis GitHub, vous intégratez votre fichier **Photoshop en format .psd** à l'intérieur de **Export_Groups**  , et vous ouvrez le fichier Photoshop. une fois sur la fenêtre , vous  activez le script via la barre de menus **"Fichier > Scripts > Parcourir"**.
 
-    Bonne Utilisation, Vous ne serez pas deçu 😉😉😉
+
+    Soutenez-moi avec un don en cryptos (eth 😉) 
+    Mon MetaMask :0xa218a27AF0818ED2f4CF6F488a31aeD55A34DDB7 

@@ -10,4 +10,7 @@ OR
 
 Simply after downloading my **Export_Groups_From_Photoshop** folder from GitHub, you integrate your **Photoshop file in .psd format** into the folder, and then you open your Photoshop file. Once in the window, you activate the " script by going through Photoshop **"File > Scripts > Browse"** menu items.
 
-    Good Use, You will not be disappointed 😉😉😉
+    Support me with a crypto donation (eth 😉)
+    My MetaMask :0xa218a27AF0818ED2f4CF6F488a31aeD55A34DDB7
+
+
