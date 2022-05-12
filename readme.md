@@ -1,6 +1,6 @@
 ## Reason
 
-This file **Export All Groups with Their Layers.jsx** is the result of deep anger...😡 No, I am kidding.😂 Having conducted several searches on the net (YouTube, Stack Overflow and others) looking for a way to export the grouped layers while maintaining their names and respective positions from Photoshop...Therefore, being a developer, having some knowledge in JavaScript, and followed by some thoughts, I was able to develop this wonderful solution allowing you to confidently export all your layers after grouping them all...and to tell you the truth, I'm still proud of the result.😃
+This **Export All Groups with Their Layers.jsx** file is the result of a deep reflection on the global export of grouped layers. Indeed, after conducting several searches on the net (YouTube, StackOverflow, GitHub and others) looking for a way to export the grouped layers with a single click while maintaining their respective names and positions from Photoshop but without satisfactory results. So, I was able to develop this solution allowing you to export all our layers after having grouped them all with a single click from Photoshop and to tell you the truth I am still proud of the result.😃
 
 ## Usage
 

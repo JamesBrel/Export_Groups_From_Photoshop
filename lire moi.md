@@ -1,6 +1,6 @@
 ## Raison
 
-Ce fichier **Export All Groups with Their Layers.jsx** est le fruit d'une profonde colère...😡 Non je rigole.😂 En fait, ayant mené plusieurs recherches sur le net (YouTube, StackOverflow et autre) à la recherche d'un moyen d’exporter les calques groupés tout en maintenant leur noms et positions respectives depuis Photoshop... Alors, étant un développeur et possédant quelques connaissances en JavaScript et suivit de quelques réflexions, j'ai pu développer cette merveilleuse solution vous permettant ainsi d'exporter en toute confiance tous vos calques après le avoir tous groupés... et pour tout vous dire je suis quand même fière du résultat.😃
+Ce fichier **Export All Groups with Their Layers.jsx** est le fruit d'une profonde réflexion par rapport à l'exportation global de calques groupés. En effet, après avoir mener plusieurs recherches sur le net (YouTube, StackOverflow , Github et autre) à la recherche d'un moyen d’exporter d'un seul click les calques groupés tout en maintenant leur nom et position respective depuis Photoshop mais sans résultat satisfesant. Alors , j'ai pu développer cette solution vous permettant ainsi d'exporter tous nos calques après les avoir tous groupés d'un seul click depuis photoshop et pour tout vous dire je suis quand même fière du résultat.😃
 
 
 ## Usage
