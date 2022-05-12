@@ -8,6 +8,6 @@ Place **Export All Groups with Their Layers.jsx** file in your folder **"C:\Prog
 
 OR
 
-Simply after downloading my **Export_Groups** folder from GitHub, you integrate your **Photoshop file in .psd format** into the folder, and then you open your Photoshop file. Once in the window, you activate the " script by going through Photoshop **"File > Scripts > Browse"** menu items.
+Simply after downloading my **Export_Groups_From_Photoshop** folder from GitHub, you integrate your **Photoshop file in .psd format** into the folder, and then you open your Photoshop file. Once in the window, you activate the " script by going through Photoshop **"File > Scripts > Browse"** menu items.
 
     Good Use, You will not be disappointed 😉😉😉
